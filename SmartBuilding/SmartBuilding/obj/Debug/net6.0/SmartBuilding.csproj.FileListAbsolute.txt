@@ -1,0 +1,36 @@
+C:\Users\Brendan\Desktop\FaganTime\SmartBuilding\SmartBuilding\bin\Debug\net6.0\SmartBuilding.deps.json
+C:\Users\Brendan\Desktop\FaganTime\SmartBuilding\SmartBuilding\bin\Debug\net6.0\SmartBuilding.dll
+C:\Users\Brendan\Desktop\FaganTime\SmartBuilding\SmartBuilding\bin\Debug\net6.0\SmartBuilding.pdb
+C:\Users\Brendan\Desktop\FaganTime\SmartBuilding\SmartBuilding\obj\Debug\net6.0\SmartBuilding.csproj.AssemblyReference.cache
+C:\Users\Brendan\Desktop\FaganTime\SmartBuilding\SmartBuilding\obj\Debug\net6.0\SmartBuilding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brendan\Desktop\FaganTime\SmartBuilding\SmartBuilding\obj\Debug\net6.0\SmartBuilding.AssemblyInfoInputs.cache
+C:\Users\Brendan\Desktop\FaganTime\SmartBuilding\SmartBuilding\obj\Debug\net6.0\SmartBuilding.AssemblyInfo.cs
+C:\Users\Brendan\Desktop\FaganTime\SmartBuilding\SmartBuilding\obj\Debug\net6.0\SmartBuilding.csproj.CoreCompileInputs.cache
+C:\Users\Brendan\Desktop\FaganTime\SmartBuilding\SmartBuilding\obj\Debug\net6.0\SmartBuilding.dll
+C:\Users\Brendan\Desktop\FaganTime\SmartBuilding\SmartBuilding\obj\Debug\net6.0\refint\SmartBuilding.dll
+C:\Users\Brendan\Desktop\FaganTime\SmartBuilding\SmartBuilding\obj\Debug\net6.0\SmartBuilding.pdb
+C:\Users\Brendan\Desktop\FaganTime\SmartBuilding\SmartBuilding\obj\Debug\net6.0\ref\SmartBuilding.dll
+C:\Users\vinuk\Desktop\UCL - 2nd year 1st sem\CO2401 - software devolopment\Assignment submission\SmartBuilding\SmartBuilding\bin\Debug\net6.0\SmartBuilding.deps.json
+C:\Users\vinuk\Desktop\UCL - 2nd year 1st sem\CO2401 - software devolopment\Assignment submission\SmartBuilding\SmartBuilding\bin\Debug\net6.0\SmartBuilding.dll
+C:\Users\vinuk\Desktop\UCL - 2nd year 1st sem\CO2401 - software devolopment\Assignment submission\SmartBuilding\SmartBuilding\bin\Debug\net6.0\SmartBuilding.pdb
+C:\Users\vinuk\Desktop\UCL - 2nd year 1st sem\CO2401 - software devolopment\Assignment submission\SmartBuilding\SmartBuilding\obj\Debug\net6.0\SmartBuilding.csproj.AssemblyReference.cache
+C:\Users\vinuk\Desktop\UCL - 2nd year 1st sem\CO2401 - software devolopment\Assignment submission\SmartBuilding\SmartBuilding\obj\Debug\net6.0\SmartBuilding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinuk\Desktop\UCL - 2nd year 1st sem\CO2401 - software devolopment\Assignment submission\SmartBuilding\SmartBuilding\obj\Debug\net6.0\SmartBuilding.AssemblyInfoInputs.cache
+C:\Users\vinuk\Desktop\UCL - 2nd year 1st sem\CO2401 - software devolopment\Assignment submission\SmartBuilding\SmartBuilding\obj\Debug\net6.0\SmartBuilding.AssemblyInfo.cs
+C:\Users\vinuk\Desktop\UCL - 2nd year 1st sem\CO2401 - software devolopment\Assignment submission\SmartBuilding\SmartBuilding\obj\Debug\net6.0\SmartBuilding.csproj.CoreCompileInputs.cache
+C:\Users\vinuk\Desktop\UCL - 2nd year 1st sem\CO2401 - software devolopment\Assignment submission\SmartBuilding\SmartBuilding\obj\Debug\net6.0\SmartBuilding.dll
+C:\Users\vinuk\Desktop\UCL - 2nd year 1st sem\CO2401 - software devolopment\Assignment submission\SmartBuilding\SmartBuilding\obj\Debug\net6.0\refint\SmartBuilding.dll
+C:\Users\vinuk\Desktop\UCL - 2nd year 1st sem\CO2401 - software devolopment\Assignment submission\SmartBuilding\SmartBuilding\obj\Debug\net6.0\SmartBuilding.pdb
+C:\Users\vinuk\Desktop\UCL - 2nd year 1st sem\CO2401 - software devolopment\Assignment submission\SmartBuilding\SmartBuilding\obj\Debug\net6.0\ref\SmartBuilding.dll
+D:\New folder\Desktop new\UCL - 2nd year 1st sem\CO2401 - software devolopment\Assignment submission\SmartBuilding\SmartBuilding\bin\Debug\net6.0\SmartBuilding.deps.json
+D:\New folder\Desktop new\UCL - 2nd year 1st sem\CO2401 - software devolopment\Assignment submission\SmartBuilding\SmartBuilding\bin\Debug\net6.0\SmartBuilding.dll
+D:\New folder\Desktop new\UCL - 2nd year 1st sem\CO2401 - software devolopment\Assignment submission\SmartBuilding\SmartBuilding\bin\Debug\net6.0\SmartBuilding.pdb
+D:\New folder\Desktop new\UCL - 2nd year 1st sem\CO2401 - software devolopment\Assignment submission\SmartBuilding\SmartBuilding\obj\Debug\net6.0\SmartBuilding.csproj.AssemblyReference.cache
+D:\New folder\Desktop new\UCL - 2nd year 1st sem\CO2401 - software devolopment\Assignment submission\SmartBuilding\SmartBuilding\obj\Debug\net6.0\SmartBuilding.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Desktop new\UCL - 2nd year 1st sem\CO2401 - software devolopment\Assignment submission\SmartBuilding\SmartBuilding\obj\Debug\net6.0\SmartBuilding.AssemblyInfoInputs.cache
+D:\New folder\Desktop new\UCL - 2nd year 1st sem\CO2401 - software devolopment\Assignment submission\SmartBuilding\SmartBuilding\obj\Debug\net6.0\SmartBuilding.AssemblyInfo.cs
+D:\New folder\Desktop new\UCL - 2nd year 1st sem\CO2401 - software devolopment\Assignment submission\SmartBuilding\SmartBuilding\obj\Debug\net6.0\SmartBuilding.csproj.CoreCompileInputs.cache
+D:\New folder\Desktop new\UCL - 2nd year 1st sem\CO2401 - software devolopment\Assignment submission\SmartBuilding\SmartBuilding\obj\Debug\net6.0\SmartBuilding.dll
+D:\New folder\Desktop new\UCL - 2nd year 1st sem\CO2401 - software devolopment\Assignment submission\SmartBuilding\SmartBuilding\obj\Debug\net6.0\refint\SmartBuilding.dll
+D:\New folder\Desktop new\UCL - 2nd year 1st sem\CO2401 - software devolopment\Assignment submission\SmartBuilding\SmartBuilding\obj\Debug\net6.0\SmartBuilding.pdb
+D:\New folder\Desktop new\UCL - 2nd year 1st sem\CO2401 - software devolopment\Assignment submission\SmartBuilding\SmartBuilding\obj\Debug\net6.0\ref\SmartBuilding.dll
